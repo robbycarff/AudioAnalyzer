@@ -2,7 +2,7 @@
 
 This is a repository for our signals and systems class
 
-We're utilizing matlab to read in an mp3 file and convert into the frequerncey domain and plot it 
+We're utilizing [Matlab](https://www.mathworks.com/products/matlab.html) to read in an mp3 file and convert into the frequencey domain and plot it.
+A FFT is used to visualize all elements of a song. Various graph styles and be used to format and view the data. 
 
 
-We will be implementing a 'meshgrid' function to add a z axis that represents time, that way will be able to see the full "mood" of a song over its time frame 
